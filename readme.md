@@ -3,6 +3,7 @@
 * TypeScript
 * ESLint
 * prettier
+* webpack
 
 # 開発コマンド
 ```
