@@ -1,7 +1,4 @@
 import { App, app, BrowserWindow } from 'electron'
-import * as path from 'path'
-
-let mainWindow = null
 
 class MyApp {
   private mainWindow: BrowserWindow | null = null
